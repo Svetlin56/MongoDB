@@ -1,2 +1,2 @@
 # MongoDB
-MongoDB project
+MongoDB hotels booking university project
