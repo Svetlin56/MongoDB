@@ -1,0 +1,104 @@
+[{
+  "_id": {
+    "$oid": "67c2ef71475e6838c1c57e60"
+  },
+  "username": "Ivan Simeonov",
+  "email": "IvanSimeonov@example.com",
+  "role": "customer"
+},
+{
+  "_id": {
+    "$oid": "67c2fc292442eea1e3f2cb0b"
+  },
+  "username": "Vasil Milanov",
+  "email": "VasMilanov@example.com",
+  "role": "customer"
+},
+{
+  "_id": {
+    "$oid": "67c2fc292442eea1e3f2cb0c"
+  },
+  "username": "Stanislav Kolarov",
+  "email": "StanislavKolarooov@example.com",
+  "role": "customer"
+},
+{
+  "_id": {
+    "$oid": "67c2fc292442eea1e3f2cb0d"
+  },
+  "username": "Nikolai Arabadjiev",
+  "email": "NiArabadjiev@example.com",
+  "role": "customer"
+},
+{
+  "_id": {
+    "$oid": "67c2fc292442eea1e3f2cb0e"
+  },
+  "username": "Petar Ivanov",
+  "email": "PIvanov@example.com",
+  "role": "customer"
+},
+{
+  "_id": {
+    "$oid": "67c2fc292442eea1e3f2cb0f"
+  },
+  "username": "Eva Marinova",
+  "email": "Evamarinovaa@example.com",
+  "role": "customer"
+},
+{
+  "_id": {
+    "$oid": "67c2fc292442eea1e3f2cb10"
+  },
+  "username": "Maria Danova",
+  "email": "DanovaMarina@example.com",
+  "role": "customer"
+},
+{
+  "_id": {
+    "$oid": "67c2fc292442eea1e3f2cb11"
+  },
+  "username": "Elena Georgieva",
+  "email": "Georgieva@example.com",
+  "role": "customer"
+},
+{
+  "_id": {
+    "$oid": "67c2fc292442eea1e3f2cb12"
+  },
+  "username": "Ralitsa Ivanova",
+  "email": "RalitsaIvanova@example.com",
+  "role": "customer"
+},
+{
+  "_id": {
+    "$oid": "67da991bb77440a4a6ad0fca"
+  },
+  "username": "Georgi Marinov",
+  "email": "GMarinov@example.com",
+  "role": "customer"
+},
+{
+  "_id": {
+    "$oid": "67daa278214f4728abecbce2"
+  },
+  "username": "Konstantin Kostadinov",
+  "email": "Kostadinovv@example.com",
+  "role": "customer"
+},
+{
+  "_id": {
+    "$oid": "67daa2b4214f4728abecbce3"
+  },
+  "username": "Venelin Mihailov",
+  "email": "VenMihailov@example.com",
+  "role": "customer"
+},
+{
+  "_id": {
+    "$oid": "67daa57922b8d8ad6516e41a"
+  },
+  "username": "Mario Beninni",
+  "email": "MarioBeninni@example.com",
+  "role": "customer"
+}]

@@ -1,0 +1,323 @@
+[{
+  "_id": {
+    "$oid": "67c2ee99475e6838c1c57e55"
+  },
+  "name": "Grand Hotel",
+  "location": "Sofia",
+  "rating": 5,
+  "availableRooms": 20,
+  "roomTypes": {
+    "single": {
+      "price": 88,
+      "available": 10
+    },
+    "double": {
+      "price": 183,
+      "available": 10
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "67c2ee99475e6838c1c57e56"
+  },
+  "name": "Sunset Resort",
+  "location": "Varna",
+  "rating": 4,
+  "availableRooms": 10,
+  "roomTypes": {
+    "single": {
+      "price": 105,
+      "available": 4
+    },
+    "double": {
+      "price": 136,
+      "available": 6
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "67c2ee99475e6838c1c57e57"
+  },
+  "name": "Mountain Lodge",
+  "location": "Bansko",
+  "rating": 3,
+  "availableRooms": 5,
+  "roomTypes": {
+    "single": {
+      "price": 69,
+      "available": 2
+    },
+    "double": {
+      "price": 153,
+      "available": 3
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "67c2fb332442eea1e3f2caff"
+  },
+  "name": "Sea Breeze Hotel",
+  "location": "Burgas",
+  "rating": 4,
+  "availableRooms": 15,
+  "roomTypes": {
+    "single": {
+      "price": 114,
+      "available": 6
+    },
+    "double": {
+      "price": 182,
+      "available": 9
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "67c2fb332442eea1e3f2cb00"
+  },
+  "name": "Rila Resort",
+  "location": "Borovets",
+  "rating": 5,
+  "availableRooms": 10,
+  "roomTypes": {
+    "single": {
+      "price": 102,
+      "available": 1
+    },
+    "double": {
+      "price": 167,
+      "available": 9
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "67c2fb332442eea1e3f2cb01"
+  },
+  "name": "Golden Sands Hotel",
+  "location": "Golden Sands",
+  "rating": 3,
+  "availableRooms": 30,
+  "roomTypes": {
+    "single": {
+      "price": 98,
+      "available": 29
+    },
+    "double": {
+      "price": 173,
+      "available": 1
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "67c2fb332442eea1e3f2cb02"
+  },
+  "name": "City Plaza",
+  "location": "Plovdiv",
+  "rating": 4,
+  "availableRooms": 20,
+  "roomTypes": {
+    "single": {
+      "price": 81,
+      "available": 11
+    },
+    "double": {
+      "price": 188,
+      "available": 9
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "67c2fb332442eea1e3f2cb03"
+  },
+  "name": "Black Sea Hotel",
+  "location": "Varna",
+  "rating": 5,
+  "availableRooms": 25,
+  "roomTypes": {
+    "single": {
+      "price": 96,
+      "available": 5
+    },
+    "double": {
+      "price": 134,
+      "available": 20
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "67c2fb332442eea1e3f2cb04"
+  },
+  "name": "Central Park Hotel",
+  "location": "Sofia",
+  "rating": 3,
+  "availableRooms": 8,
+  "roomTypes": {
+    "single": {
+      "price": 92,
+      "available": 4
+    },
+    "double": {
+      "price": 107,
+      "available": 4
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "67c2fb332442eea1e3f2cb05"
+  },
+  "name": "Pirin Lodge",
+  "location": "Bansko",
+  "rating": 4,
+  "availableRooms": 12,
+  "roomTypes": {
+    "single": {
+      "price": 75,
+      "available": 6
+    },
+    "double": {
+      "price": 193,
+      "available": 6
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "67d9fe1685277afb8b0979f8"
+  },
+  "name": "Luxury Resort",
+  "location": "Stara Zagora",
+  "rating": 4,
+  "availableRooms": 23,
+  "roomTypes": {
+    "single": {
+      "price": 86,
+      "available": 6
+    },
+    "double": {
+      "price": 145,
+      "available": 17
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "67d9ffda85277afb8b097a01"
+  },
+  "name": "Danube Hotel",
+  "location": "Ruse",
+  "rating": 3,
+  "availableRooms": 23,
+  "roomTypes": {
+    "single": {
+      "price": 93,
+      "available": 7
+    },
+    "double": {
+      "price": 139,
+      "available": 16
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "67da9b8da88e906ce7227b91"
+  },
+  "name": "Sunny Beach Resort",
+  "location": "Sunny Beach",
+  "rating": 4,
+  "availableRooms": 50,
+  "roomTypes": {
+    "single": {
+      "price": 95,
+      "available": 31
+    },
+    "double": {
+      "price": 160,
+      "available": 19
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "67daa1e7214f4728abecbcde"
+  },
+  "name": "Forest Hotel",
+  "location": "Vratsa",
+  "rating": 2,
+  "availableRooms": 4,
+  "roomTypes": {
+    "single": {
+      "price": 102,
+      "available": 1
+    },
+    "double": {
+      "price": 197,
+      "available": 3
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "67daa246214f4728abecbcdf"
+  },
+  "name": "Hisarluka Hotel",
+  "location": "Kyustendil",
+  "rating": 4,
+  "availableRooms": 12,
+  "roomTypes": {
+    "single": {
+      "price": 66,
+      "available": 6
+    },
+    "double": {
+      "price": 136,
+      "available": 6
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "67daa52a22b8d8ad6516e419"
+  },
+  "name": "Galaxy Resort",
+  "location": "Sveti Vlas",
+  "rating": 5,
+  "availableRooms": 21,
+  "roomTypes": {
+    "single": {
+      "price": 98,
+      "available": 17
+    },
+    "double": {
+      "price": 155,
+      "available": 4
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5ca6f38d389d315d048fd"
+  },
+  "name": "The Best Hotel",
+  "location": "Burgas",
+  "rating": 4,
+  "availableRooms": 10,
+  "roomTypes": {
+    "single": {
+      "price": 90,
+      "available": 4
+    },
+    "double": {
+      "price": 150,
+      "available": 6
+    }
+  }
+}]

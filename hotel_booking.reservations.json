@@ -1,0 +1,294 @@
+[{
+  "_id": {
+    "$oid": "67e3dca13e24da3c4537d26f"
+  },
+  "hotelId": {
+    "$oid": "67c2ee99475e6838c1c57e55"
+  },
+  "guestName": "Ivan Petrov",
+  "roomType": "double",
+  "checkIn": {
+    "$date": "2025-04-10T00:00:00.000Z"
+  },
+  "checkOut": {
+    "$date": "2025-04-15T00:00:00.000Z"
+  },
+  "totalPrice": 183,
+  "usersId": {
+    "$oid": "67c2ef71475e6838c1c57e60"
+  },
+  "hotelName": "Grand Hotel"
+},
+{
+  "_id": {
+    "$oid": "67e3dca13e24da3c4537d270"
+  },
+  "hotelId": {
+    "$oid": "67c2fb332442eea1e3f2cb03"
+  },
+  "guestName": "Maria Dimitrova",
+  "roomType": "single",
+  "checkIn": {
+    "$date": "2025-05-01T00:00:00.000Z"
+  },
+  "checkOut": {
+    "$date": "2025-05-03T00:00:00.000Z"
+  },
+  "totalPrice": 96,
+  "usersId": {
+    "$oid": "67c2fc292442eea1e3f2cb0b"
+  },
+  "hotelName": "Black Sea Hotel"
+},
+{
+  "_id": {
+    "$oid": "67e3dca13e24da3c4537d271"
+  },
+  "hotelId": {
+    "$oid": "67daa1e7214f4728abecbcde"
+  },
+  "guestName": "Georgi Georgiev",
+  "roomType": "double",
+  "checkIn": {
+    "$date": "2025-06-05T00:00:00.000Z"
+  },
+  "checkOut": {
+    "$date": "2025-06-10T00:00:00.000Z"
+  },
+  "totalPrice": 197,
+  "usersId": {
+    "$oid": "67c2fc292442eea1e3f2cb0c"
+  },
+  "hotelName": "Forest Hotel"
+},
+{
+  "_id": {
+    "$oid": "67e3dca13e24da3c4537d272"
+  },
+  "hotelId": {
+    "$oid": "67c2fb332442eea1e3f2cb00"
+  },
+  "guestName": "Elena Stoyanova",
+  "roomType": "single",
+  "checkIn": {
+    "$date": "2025-07-20T00:00:00.000Z"
+  },
+  "checkOut": {
+    "$date": "2025-07-25T00:00:00.000Z"
+  },
+  "totalPrice": 102,
+  "usersId": {
+    "$oid": "67c2fc292442eea1e3f2cb0d"
+  },
+  "hotelName": "Rila Resort"
+},
+{
+  "_id": {
+    "$oid": "67e3dca13e24da3c4537d273"
+  },
+  "hotelId": {
+    "$oid": "67da9b8da88e906ce7227b91"
+  },
+  "guestName": "Nikolay Vasilev",
+  "roomType": "double",
+  "checkIn": {
+    "$date": "2025-08-15T00:00:00.000Z"
+  },
+  "checkOut": {
+    "$date": "2025-08-20T00:00:00.000Z"
+  },
+  "totalPrice": 160,
+  "usersId": {
+    "$oid": "67c2fc292442eea1e3f2cb0e"
+  },
+  "hotelName": "Sunny Beach Resort"
+},
+{
+  "_id": {
+    "$oid": "67e3dca13e24da3c4537d274"
+  },
+  "hotelId": {
+    "$oid": "67c2fb332442eea1e3f2cb01"
+  },
+  "guestName": "Eva Marinova",
+  "roomType": "double",
+  "checkIn": {
+    "$date": "2025-04-12T00:00:00.000Z"
+  },
+  "checkOut": {
+    "$date": "2025-04-16T00:00:00.000Z"
+  },
+  "totalPrice": 173,
+  "usersId": {
+    "$oid": "67c2fc292442eea1e3f2cb0f"
+  },
+  "hotelName": "Golden Sands Hotel"
+},
+{
+  "_id": {
+    "$oid": "67e3dca13e24da3c4537d275"
+  },
+  "hotelId": {
+    "$oid": "67c2fb332442eea1e3f2cb02"
+  },
+  "guestName": "Maria Danova",
+  "roomType": "single",
+  "checkIn": {
+    "$date": "2025-05-10T00:00:00.000Z"
+  },
+  "checkOut": {
+    "$date": "2025-05-15T00:00:00.000Z"
+  },
+  "totalPrice": 81,
+  "usersId": {
+    "$oid": "67c2fc292442eea1e3f2cb10"
+  },
+  "hotelName": "City Plaza"
+},
+{
+  "_id": {
+    "$oid": "67e3dca13e24da3c4537d276"
+  },
+  "hotelId": {
+    "$oid": "67c2fb332442eea1e3f2cb05"
+  },
+  "guestName": "Elena Georgieva",
+  "roomType": "double",
+  "checkIn": {
+    "$date": "2025-06-01T00:00:00.000Z"
+  },
+  "checkOut": {
+    "$date": "2025-06-05T00:00:00.000Z"
+  },
+  "totalPrice": 193,
+  "usersId": {
+    "$oid": "67c2fc292442eea1e3f2cb11"
+  },
+  "hotelName": "Pirin Lodge"
+},
+{
+  "_id": {
+    "$oid": "67e3dca13e24da3c4537d277"
+  },
+  "hotelId": {
+    "$oid": "67d9fe1685277afb8b0979f8"
+  },
+  "guestName": "Ralitsa Ivanova",
+  "roomType": "single",
+  "checkIn": {
+    "$date": "2025-07-02T00:00:00.000Z"
+  },
+  "checkOut": {
+    "$date": "2025-07-07T00:00:00.000Z"
+  },
+  "totalPrice": 86,
+  "usersId": {
+    "$oid": "67c2fc292442eea1e3f2cb12"
+  },
+  "hotelName": "Luxury Resort"
+},
+{
+  "_id": {
+    "$oid": "67e3dca13e24da3c4537d278"
+  },
+  "hotelId": {
+    "$oid": "67d9ffda85277afb8b097a01"
+  },
+  "guestName": "Georgi Marinov",
+  "roomType": "double",
+  "checkIn": {
+    "$date": "2025-08-03T00:00:00.000Z"
+  },
+  "checkOut": {
+    "$date": "2025-08-08T00:00:00.000Z"
+  },
+  "totalPrice": 139,
+  "usersId": {
+    "$oid": "67da991bb77440a4a6ad0fca"
+  },
+  "hotelName": "Danube Hotel"
+},
+{
+  "_id": {
+    "$oid": "67e3dca13e24da3c4537d279"
+  },
+  "hotelId": {
+    "$oid": "67daa246214f4728abecbcdf"
+  },
+  "guestName": "Konstantin Kostadinov",
+  "roomType": "single",
+  "checkIn": {
+    "$date": "2025-09-15T00:00:00.000Z"
+  },
+  "checkOut": {
+    "$date": "2025-09-20T00:00:00.000Z"
+  },
+  "totalPrice": 66,
+  "usersId": {
+    "$oid": "67daa278214f4728abecbce2"
+  },
+  "hotelName": "Hisarluka Hotel"
+},
+{
+  "_id": {
+    "$oid": "67e3dca13e24da3c4537d27a"
+  },
+  "hotelId": {
+    "$oid": "67daa52a22b8d8ad6516e419"
+  },
+  "guestName": "Venelin Mihailov",
+  "roomType": "double",
+  "checkIn": {
+    "$date": "2025-10-05T00:00:00.000Z"
+  },
+  "checkOut": {
+    "$date": "2025-10-10T00:00:00.000Z"
+  },
+  "totalPrice": 155,
+  "usersId": {
+    "$oid": "67daa2b4214f4728abecbce3"
+  },
+  "hotelName": "Galaxy Resort"
+},
+{
+  "_id": {
+    "$oid": "67e3dca13e24da3c4537d27b"
+  },
+  "hotelId": {
+    "$oid": "67c2ee99475e6838c1c57e56"
+  },
+  "guestName": "Mario Beninni",
+  "roomType": "single",
+  "checkIn": {
+    "$date": "2025-11-01T00:00:00.000Z"
+  },
+  "checkOut": {
+    "$date": "2025-11-05T00:00:00.000Z"
+  },
+  "totalPrice": 105,
+  "usersId": {
+    "$oid": "67daa57922b8d8ad6516e41a"
+  },
+  "hotelName": "Sunset Resort"
+},
+{
+  "_id": {
+    "$oid": "67e3dca13e24da3c4537d27c"
+  },
+  "hotelId": {
+    "$oid": "67c2fb332442eea1e3f2cb04"
+  },
+  "guestName": "Ivan Simeonov",
+  "roomType": "double",
+  "checkIn": {
+    "$date": "2025-12-10T00:00:00.000Z"
+  },
+  "checkOut": {
+    "$date": "2025-12-15T00:00:00.000Z"
+  },
+  "totalPrice": 107,
+  "usersId": {
+    "$oid": "67c2ef71475e6838c1c57e60"
+  },
+  "hotelName": "Central Park Hotel"
+}]
